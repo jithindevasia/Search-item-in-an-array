@@ -1,3 +1,8 @@
+# ------------------------------------------
+# This script was written by Jithin Devasia
+# Email : jithindevasia@gmail.com
+# ------------------------------------------
+
 #/bin/bash
 echo -n "Enter the array limit : "
 read n
