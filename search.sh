@@ -7,9 +7,9 @@
 echo -n "Enter the array limit : "
 read n
 temp=0; # Setting a flag here
-echo -n "Enter array items one by one [Hit enter key after each item] : "
 	
 	for (( i = 1; i <= n; i++ )); do 
+		echo -n "Enter $i item : "
 		read a[i] # Array initialization
 	done
 
